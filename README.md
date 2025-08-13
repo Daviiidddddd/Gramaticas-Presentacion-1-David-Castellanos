@@ -93,7 +93,7 @@ Salida: una línea por cada entrada en `tests_G1.txt` con `acepta` o `NO acepta`
 
 ---
 
-# 🛠 Compilar y ejecutar — C
+#  Compilar y ejecutar — C
 
 Si tu compilador soporta C99/C11 (recomendado):
 
@@ -148,7 +148,7 @@ acepta
 
 ---
 
-# ⚠ Notas y limitaciones importantes
+#  Notas y limitaciones importantes
 
 - <u>Terminales</u> se tratan como **un solo carácter**. Para tokens multi-caracter (ej. `id`, `num`) es necesario un preprocesamiento (lexer) o ajustar el parser del formato de gramática.  
 - El recognizer responde solo **sí/no**; no construye el árbol de derivación.  
